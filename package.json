@@ -1,0 +1,32 @@
+{
+  "name": "shark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord-buttons": "^3.2.1",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "formatnumbers": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.12.14",
+    "ms": "^2.1.3",
+    "os": "^0.1.1",
+    "pastebin-js": "^1.0.6",
+    "timestamp-conv": "^2.1.0",
+    "utf8": "^3.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "14.17.0",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
